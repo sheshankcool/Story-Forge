@@ -38,38 +38,11 @@ This makes it ideal for:
 
 
 
-⚙️ Features
-🔎 Real-Time Information Retrieval
-Uses Tavily API to fetch latest data
-Aggregates multiple sources
-🧠 AI Research Assistant
-Converts raw data into:
-Structured insights
-Clean summaries
-Trend analysis
-🎬 Video Script Generator
-Generates:
-Hook-based scripts
-Emotional + engaging storytelling
-~200 word short-form content
-🔌 MCP Integration
-
-Exposes tools like:
-
-get_latest_info_mcp
-generate_video_script_mcp
-
-These can be used by:
-
-AI agents
-Multi-agent systems
-External MCP clients
 
 
-▶️ How to Run Streamlit 
-uv run streamlit run app.py
+▶️ How to Run Streamlit: uv run streamlit run app.py
 
-▶️ How to Run mcpserver
+▶️ How to Run mcpserver: 
 uv run mcp_server.py
 
 
