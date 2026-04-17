@@ -1,5 +1,0 @@
-mcp[cli]
-python-dotenv
-streamlit
-openai
-tavily-python
